@@ -1,0 +1,10 @@
+{
+    "RainJoinSound": true,
+    "minimum_amount": 500,
+    "disabled_controls": false,
+    "one_account": true,
+    "safe_hop_accounts": true,
+    "key": "Your Key Here",
+    "main_account_bloxflip_token": "Your main account BloxFlip token here",
+    "bloxflip_token1": "Your alt account BloxFlip token here"
+}
